@@ -21,5 +21,7 @@
 ## Attention
 
 * 发送邮件使用mail命令，你需要配置好mail命令，达到可以使用```echo "xixi"|mail -s "sub" xxx@mail.com```发送邮件的程度
+* 具体怎么配置，可以参考我的文章[linux下配置mail在命令行发送邮件][1]
 
-* 具体怎么配置，自行Google吧
+
+[1]: https://wzhy.ink/index.php/archives/29/
